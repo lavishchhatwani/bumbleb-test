@@ -1,0 +1,5 @@
+Problem :- Reverse a sentense. 
+Input: code to love I
+Ouput: I love to code
+A simple java/python file with tests
+Implement with your style and code quality standards.
